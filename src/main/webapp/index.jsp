@@ -24,7 +24,7 @@
         /* 전체 설정 css start */
         :root {
             --color1: #3d3d3d;
-            --color2: red;/* >???*/
+            --color2: white;
             --color3: #181818;
             --color4: #212121;
             --color5: #373749;
